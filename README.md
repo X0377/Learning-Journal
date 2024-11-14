@@ -5,8 +5,8 @@
 - CSS
 - JavaScript
 - SQL
-- Ruby（予定）
-- Ruby on Rails（予定）
+- Ruby
+- Ruby on Rails ←ｲﾏｺｺ
 
 ## 📂 構成
 - daily-reports/: 日々の学習記録
